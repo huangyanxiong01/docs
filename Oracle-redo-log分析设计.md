@@ -1,0 +1,1 @@
+![oracle-redo-log](./images/oracle-redolog.png)
